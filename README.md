@@ -1,4 +1,19 @@
-# rails-test
+# Docker for Mac でRails実行環境を構築
+
+
+### MacのCUI環境
+
+ターミナルを起動
+```
+$ brew install git
+$ git --version
+git version 2.12.2
+```
+```
+$ brew install ssh
+$ ssh -V
+OpenSSH_7.4p1, LibreSSL 2.5.0
+```
 
 ### Docker for Mac のインストール
 
